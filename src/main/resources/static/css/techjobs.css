@@ -23,17 +23,17 @@ tr:nth-child(odd) {
     margin-right: auto;
 }
 
-table.job-listing {
+table.jobs-listed {
     margin: 30px auto;
     border: 1px solid #e4e4e4;
     width: 80%;
 }
 
-table.job-listing td:first-child {
+table.jobs-listed td:first-child {
     font-weight: bold;
 }
 
-table.job-listing td:last-child {
+table.jobs-listed td:last-child {
     width: 80%;
 }
 
@@ -43,4 +43,8 @@ label {
 
 .centered {
     text-align: center;
+}
+
+.bold-whatever {
+    font-weight: bold;
 }
